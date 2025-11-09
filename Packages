@@ -43,7 +43,7 @@ Architecture: iphoneos-arm
 Maintainer: Chasewhip
 Depends: firmware (>= 11.0), firmware (<= 14.2)
 Provides: com.chasewhip.batterycolor
-Filename: debs/com.blackwarm.jesus_1.2.2.deb
+Filename: debs/batterycolor_0.3.deb
 Size: 2596
 MD5sum: c823869d7e2b586235667e640165c855
 SHA1: d37c4fa98bccb05ef2a19afc9dbad0b7c7304c13
