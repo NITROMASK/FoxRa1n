@@ -1,0 +1,14 @@
+Package: ai.akemi.appsyncunified
+Name: AppSync Unified
+Version: 116.0
+Architecture: iphoneos-arm
+Description: AppSync Unified is a tweak that allows users to freely install ad-hoc signed, fakesigned, unsigned, or expired IPA app packages on their iOS devices that iOS would otherwise consider invalid.
+Maintainer: Akemi
+Author: Akemi
+Section: Tools
+Depends: mobilesubstrate
+Filename: debs\ai.akemi.appsyncunified_116.0_iphoneos-arm.deb
+Size: 51658
+MD5sum: 536009a11dad57e48a5563224eaffaff
+SHA1: e0fa412cb3c26718887edd834804c88909297079
+SHA256: 0036f28fcbdb165d4f58968a237ca9fe7b6ed33fea25b9a5eb1fc141f6bf5a09
