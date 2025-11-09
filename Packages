@@ -36,3 +36,19 @@ Description: https://repo.packix.com/package/com.blackwarm.jesus
 Author: @jesus_punk08
 Depiction: https://repo.packix.com/package/com.blackwarm.jesus
 Name: Blackwarm
+
+Package: com.chasewhip.batterycolor
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: Chasewhip
+Depends: firmware (>= 11.0), firmware (<= 14.2)
+Provides: com.chasewhip.batterycolor
+Filename: debs/com.blackwarm.jesus_1.2.2.deb
+Size: 2596
+MD5sum: c823869d7e2b586235667e640165c855
+SHA1: d37c4fa98bccb05ef2a19afc9dbad0b7c7304c13
+SHA256: abcb6c24bf270c2e9b3765b92eda639cfc89c2379a7d359af7de345da2dc3afb
+Section: Tweaks
+Description: Provides a gradient look to the battery icon as the battery drains.
+Author: Chasewhip
+Name: BatteryColor
