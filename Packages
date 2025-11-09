@@ -18,3 +18,21 @@ Description: Enables the ability to install unsigned/fakesigned iOS applications
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
+
+Package: com.blackwarm.jesus
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: @jesus_punk08
+Depends: firmware (>= 7.0), firmware (<= 15.2)
+Provides: com.blackwarm.jesus
+Filename: debs/com.blackwarm.jesus_1.2.2.deb
+Size: 3423318
+MD5sum: 1fb6d81a66cb72f6b75ddd09c4fae42a
+SHA1: 501ede8f15963ea46e3b2884bc743f97a63ec50c
+SHA256: d22f7093972e81f3ffa0df9e6ca485f9ef0a61355716f22797deb2ba4a3d321f
+Section: Themes(Icons)
+Homepage: https://repo.packix.com/package/com.blackwarm.jesus
+Description: https://repo.packix.com/package/com.blackwarm.jesus
+Author: @jesus_punk08
+Depiction: https://repo.packix.com/package/com.blackwarm.jesus
+Name: Blackwarm
