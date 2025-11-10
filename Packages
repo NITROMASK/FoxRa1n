@@ -19,20 +19,18 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 
-Package: com.blackwarm.jesus
-Version: 1.2.2-1
+Package: com.chasewhip.batterycolor
+Version: 0.3
 Architecture: iphoneos-arm
-Maintainer: @jesus_punk08
-Depends: firmware (>= 7.0), firmware (<= 15.2)
-Provides: com.blackwarm.jesus
-Filename: debs/com.blackwarm.jesus_1.2.2.deb
-Size: 3423318
-MD5sum: 1fb6d81a66cb72f6b75ddd09c4fae42a
-SHA1: 501ede8f15963ea46e3b2884bc743f97a63ec50c
-SHA256: d22f7093972e81f3ffa0df9e6ca485f9ef0a61355716f22797deb2ba4a3d321f
-Section: Themes(Icons)
-Homepage: https://repo.packix.com/package/com.blackwarm.jesus
-Description: https://repo.packix.com/package/com.blackwarm.jesus
-Author: @jesus_punk08
-Depiction: https://repo.packix.com/package/com.blackwarm.jesus
-Name: Blackwarm
+Maintainer: Chasewhip
+Depends: firmware (>= 11.0), firmware (<= 14.2)
+Provides: com.chasewhip.batterycolor
+Filename: debs/com.chasewhip.batterycolor_0.3.deb
+Size: 2596
+MD5sum: c823869d7e2b586235667e640165c855
+SHA1: d37c4fa98bccb05ef2a19afc9dbad0b7c7304c13
+SHA256: abcb6c24bf270c2e9b3765b92eda639cfc89c2379a7d359af7de345da2dc3afb
+Section: Tweaks
+Description: Provides a gradient look to the battery icon as the battery drains.
+Author: Chasewhip
+Name: BatteryColor
