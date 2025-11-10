@@ -20,18 +20,17 @@ Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 
 Package: applebetas.ios.tweak.willow
-Version: 1.2.14
+Version: 1.2.15
 Architecture: iphoneos-arm
-Maintainer: Audem Panhuyzen
-Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, dev.ayden.ios.tweak.lib.libdundas4
+Maintainer: Ayden Panhuyzen
+Depends: mobilesubstrate, firmware (>= 11.0) | net.arx8x.ultrasoundpatch, preferenceloader, dev.ayden.ios.tweak.lib.libdundas
 Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud, hi.my.name.is.ubik.sonus13, com.ikilledappl3.switchhud, com.muirey03.13hud, com.kingpuffdaddi.ringer13
-Provides: applebetas.ios.tweak.willow
-Filename: debs/Ultrasound_1.2.1.4.deb
-Size: 253116
-MD5sum: 05773a164a2c79f209e7bec9a4c39b48
-SHA1: 5106ed6c327e51155e67f1ed4ea47c474edafe2b
-SHA256: ff543d46cee0c5b143583c61fa3d3c9269e284ce2bdbd1f3957eea3912bd86ad
+Filename: debs/applebetas.ios.tweak.willow.deb
+Size: 331156
+MD5sum: 201a5ed83f91eb8315c29df9206c2cfe
+SHA1: c2a8d9d97434d5839d06979a15b896866d7291d7
+SHA256: b5d3f765da5ab06bed1c4792c922c40bfa2817616eeab505d4257abf0e3d6ce7
 Section: Tweaks
 Description: A brand-new, unobtrusive, OLED-friendly volume HUD.
-Author: Audem Panhuyzen
+Author: Ayden Panhuyzen
 Name: Ultrasound
