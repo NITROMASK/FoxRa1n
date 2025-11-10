@@ -7,7 +7,7 @@ Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified, ellekit (< 1.1)
 Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
 Provides: appsync, net.angelxwind.appsyncunified
-Filename: debs/ai.akemi.appsyncunified_116.0_iphoneos-arm.akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
+Filename: debs/ai.akemi.appsyncunified_116.0_iphoneos-arm.deb
 Size: 78056
 MD5sum: 94325cbe75c1b30c15b7f4f24defd37b
 SHA1: 698bcbf521d81925cf4528d4661fb4af973e5dab
@@ -19,18 +19,20 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 
-Package: com.chasewhip.batterycolor
-Version: 0.3
+Package: applebetas.ios.tweak.willow
+Version: 1.2.14
 Architecture: iphoneos-arm
-Maintainer: Chasewhip
-Depends: firmware (>= 11.0), firmware (<= 14.2)
-Provides: com.chasewhip.batterycolor
-Filename: debs/com.chasewhip.batterycolor_0.3.deb
-Size: 2596
-MD5sum: c823869d7e2b586235667e640165c855
-SHA1: d37c4fa98bccb05ef2a19afc9dbad0b7c7304c13
-SHA256: abcb6c24bf270c2e9b3765b92eda639cfc89c2379a7d359af7de345da2dc3afb
+Maintainer: Audem Panhuyzen
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, dev.ayden.ios.tweak.lib.libdundas4
+Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud, hi.my.name.is.ubik.sonus13, com.ikilledappl3.switchhud, com.muirey03.13hud, com.kingpuffdaddi.ringer13
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Provides: applebetas.ios.tweak.willow
+Filename: debs/Ultrasound_1.2.1.4.deb
+Size: 253116
+MD5sum: 05773a164a2c79f209e7bec9a4c39b48
+SHA1: 5106ed6c327e51155e67f1ed4ea47c474edafe2b
+SHA256: ff543d46cee0c5b143583c61fa3d3c9269e284ce2bdbd1f3957eea3912bd86ad
 Section: Tweaks
-Description: Provides a gradient look to the battery icon as the battery drains.
-Author: Chasewhip
-Name: BatteryColor
+Description: A brand-new, unobtrusive, OLED-friendly volume HUD.
+Author: Audem Panhuyzen
+Name: Ultrasound
