@@ -25,7 +25,6 @@ Architecture: iphoneos-arm
 Maintainer: Audem Panhuyzen
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, dev.ayden.ios.tweak.lib.libdundas4
 Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud, hi.my.name.is.ubik.sonus13, com.ikilledappl3.switchhud, com.muirey03.13hud, com.kingpuffdaddi.ringer13
-Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
 Provides: applebetas.ios.tweak.willow
 Filename: debs/Ultrasound_1.2.1.4.deb
 Size: 253116
