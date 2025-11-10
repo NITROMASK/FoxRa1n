@@ -20,7 +20,7 @@ Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 
 Package: com.blackwarm.jesus
-Version: 1.2.2
+Version: 1.2.2-1
 Architecture: iphoneos-arm
 Maintainer: @jesus_punk08
 Depends: firmware (>= 7.0), firmware (<= 15.2)
