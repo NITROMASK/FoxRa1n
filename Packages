@@ -1,3 +1,50 @@
+Package: com.chpwn.zephyr
+Version: 1.6.2-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 112
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.layersnapshotter
+Conflicts: com.dapetcu21.MultiCleaner (<= 2.9.4), com.xsellize.multicleaner, com.xsellize.zephyr
+Filename: debs/com.chpwn.zephyr_1.6.2-1_iphoneos-arm.deb
+Size: 44448
+MD5sum: 27ada3472c23e85079f62739729e3046
+SHA1: 26664e472eebf4a0f1739a7fb40ee1f8adf3bab5
+SHA256: 2f6e56a01a66fd3f1b77db27c97ccc3e7b192546dec8a5867dba312de6cc1fe9
+Section: Tweaks
+Homepage: http://chpwn.com/cydia/zephyr.html
+Description: Awesome swipe multitasking and gestures!
+Tag: cydia::commercial, purpose::extension
+Author: chpwn <support@chpwn.com>
+Depiction: http://chpwn.com/cydia/zephyr.html
+Dev: chpwn
+Icon: file:///Library/PreferenceLoader/Preferences/Zephyr@2x.png
+Name: Zephyr
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.filippobiga.springtomize2
+Version: 1.4.3-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 561
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader, com.filippobiga.springtomize2-icons, com.filippobiga.springtomize2-localizations
+Conflicts: com.filippobiga.springtomize
+Filename: debs/springtomize2_1.4.3-1_appleguider.net.deb
+Size: 207622
+MD5sum: 83af51e0a7624ffb9532c7b0d836681b
+SHA1: 3817b4684c11981b05da0e30ea92daff0cdb85fd
+SHA256: 5de3f23b516c148a0efc378ebcc4dacfc693ab45600a2419aef39e4fd7da56c5
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize2Dp
+Description: SpringBoard, the way you want it. All over again.
+Tag: cydia::commercial, purpose::extension
+Author: FilippoBiga <filippobiga.dev@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize2Dp
+Dev: filippobiga
+Icon: file:///Applications/springtomizeapp.app/Icon.png
+Name: Springtomize 2 - iOS 5 & 6
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: org.thebigboss.auxo
 Version: 1.4-2
 Architecture: iphoneos-arm
@@ -19,5 +66,4 @@ Dev: a3tweaks
 Icon: file:///Library/PreferenceLoader/Preferences/AuxoIcon@2x.png
 Name: Auxo
 Sponsor: thebigboss.org <http://thebigboss.org>
-
 
