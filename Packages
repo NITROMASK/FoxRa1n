@@ -1,36 +1,23 @@
-Package: ai.akemi.appsyncunified
-Version: 116.0
+Package: org.thebigboss.auxo
+Version: 1.4-2
 Architecture: iphoneos-arm
-Maintainer: Karen/あけみ <karen@akemi.ai>
-Installed-Size: 636
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
-Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified, ellekit (< 1.1)
-Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
-Provides: appsync, net.angelxwind.appsyncunified
-Filename: debs/ai.akemi.appsyncunified_116.0_iphoneos-arm.deb
-Size: 78056
-MD5sum: 94325cbe75c1b30c15b7f4f24defd37b
-SHA1: 698bcbf521d81925cf4528d4661fb4af973e5dab
-SHA256: ffb6b3dfd84c8e6285c961bfc94f9645b2b194791d8dc43bcfc56f6b66b15e01
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 2127
+Depends: firmware (>= 5.1), mobilesubstrate, preferenceloader, applist
+Filename: debs/auxo_1.4-2_iphoneos-arm.deb
+Size: 1818388
+MD5sum: 3c0bf3ae0ee269bf84bb65fb1075c214
+SHA1: 834716f5319b1eacee3588e5c6b18511f1f6403b
+SHA256: 9580ce7adf99206384456c0fd8c97085b5e8ef0867757acfa60353d2eaffb9b6
 Section: Tweaks
-Homepage: https://cydia.akemi.ai/
-Description: Enables the ability to install unsigned/fakesigned iOS applications.
-Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
-Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
-Name: AppSync Unified
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxoDp
+Description: A fantastic re-imagined multitasking bar!
+Tag: cydia::commercial, purpose::extension
+Author: A3tweaks <A3tweaks@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxoDp
+Dev: a3tweaks
+Icon: file:///Library/PreferenceLoader/Preferences/AuxoIcon@2x.png
+Name: Auxo
+Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: applebetas.ios.tweak.willow
-Version: 1.2.15
-Architecture: iphoneos-arm
-Maintainer: Ayden Panhuyzen
-Depends: mobilesubstrate, firmware (>= 11.0) | net.arx8x.ultrasoundpatch, preferenceloader, dev.ayden.ios.tweak.lib.libdundas
-Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud, hi.my.name.is.ubik.sonus13, com.ikilledappl3.switchhud, com.muirey03.13hud, com.kingpuffdaddi.ringer13
-Filename: debs/applebetas.ios.tweak.willow.deb
-Size: 331156
-MD5sum: 201a5ed83f91eb8315c29df9206c2cfe
-SHA1: c2a8d9d97434d5839d06979a15b896866d7291d7
-SHA256: b5d3f765da5ab06bed1c4792c922c40bfa2817616eeab505d4257abf0e3d6ce7
-Section: Tweaks
-Description: A brand-new, unobtrusive, OLED-friendly volume HUD.
-Author: Ayden Panhuyzen
-Name: Ultrasound
+
