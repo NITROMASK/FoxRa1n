@@ -11,15 +11,12 @@ MD5sum: d80a2c99215b8e62365465daa3db615b
 SHA1: 021771a476337d94faa24ad7ba7be3daa7e30201
 SHA256: 2dafb199794810e529a3543dc7a477466e100fad8b04db7a18b43d143c0a5341
 Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxo2Dp
 Description: A fantasic re-imagined task switcher!
 Tag: cydia::commercial, purpose::extension
 Author: A3tweaks <auxo2@a3tweaks.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxo2Dp
 Dev: a3tweaks
 Icon: file:///Library/PreferenceBundles/UminoPreferences.bundle/Auxo2@2x.png
 Name: Auxo 2 (iOS 7)
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.victorlobe.veteris
 Version: 3.2
