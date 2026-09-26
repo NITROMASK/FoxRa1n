@@ -1,21 +1,3 @@
-
- * Waiting in queue... 
-The following packages have to be installed:
- dpkg-dev_1.23.7-1.fc44.noarch                Debian package development tools
- dpkg-perl_1.23.7-1.fc44.noarch               Dpkg perl modules
- perl-Digest-SHA1_2.13-49.fc44.x86_64         Digest-SHA1 Perl module
- perl-File-Compare_1.100.800-525.fc44.noarch  Compare files or file handles
- perl-File-Find_1.44-525.fc44.noarch          Traverse a directory tree
- perl-Tie_4.6-525.fc44.noarch                 Base classes for tying variables
- perl-Time-Piece_1.3600-525.fc44.x86_64       Time objects from localtime and gmtime
- xz-lzma-compat_1:5.8.2-2.fc44.x86_64         Older LZMA format compatibility binaries
-
- * Waiting in queue... 
- * Waiting for authentication... 
- * Waiting in queue... 
- * Downloading packages... 
- * Running... 
- * Installing packages... 
 Package: com.victorlobe.veteris
 Version: 3.2
 Architecture: iphoneos-arm
@@ -59,5 +41,4 @@ Dev: a3tweaks
 Icon: file:///Library/PreferenceLoader/Preferences/AuxoIcon@2x.png
 Name: Auxo
 Sponsor: thebigboss.org <http://thebigboss.org>
-
 
