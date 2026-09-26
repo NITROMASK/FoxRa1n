@@ -1,49 +1,42 @@
-Package: com.chpwn.zephyr
-Version: 1.6.2-1
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 112
-Pre-Depends: firmware (>= 5.0)
-Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.layersnapshotter
-Conflicts: com.dapetcu21.MultiCleaner (<= 2.9.4), com.xsellize.multicleaner, com.xsellize.zephyr
-Filename: debs/com.chpwn.zephyr_1.6.2-1_iphoneos-arm.deb
-Size: 44448
-MD5sum: 27ada3472c23e85079f62739729e3046
-SHA1: 26664e472eebf4a0f1739a7fb40ee1f8adf3bab5
-SHA256: 2f6e56a01a66fd3f1b77db27c97ccc3e7b192546dec8a5867dba312de6cc1fe9
-Section: Tweaks
-Homepage: http://chpwn.com/cydia/zephyr.html
-Description: Awesome swipe multitasking and gestures!
-Tag: cydia::commercial, purpose::extension
-Author: chpwn <support@chpwn.com>
-Depiction: http://chpwn.com/cydia/zephyr.html
-Dev: chpwn
-Icon: file:///Library/PreferenceLoader/Preferences/Zephyr@2x.png
-Name: Zephyr
-Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: com.filippobiga.springtomize2
-Version: 1.4.3-1
+ * Waiting in queue... 
+The following packages have to be installed:
+ dpkg-dev_1.23.7-1.fc44.noarch                Debian package development tools
+ dpkg-perl_1.23.7-1.fc44.noarch               Dpkg perl modules
+ perl-Digest-SHA1_2.13-49.fc44.x86_64         Digest-SHA1 Perl module
+ perl-File-Compare_1.100.800-525.fc44.noarch  Compare files or file handles
+ perl-File-Find_1.44-525.fc44.noarch          Traverse a directory tree
+ perl-Tie_4.6-525.fc44.noarch                 Base classes for tying variables
+ perl-Time-Piece_1.3600-525.fc44.x86_64       Time objects from localtime and gmtime
+ xz-lzma-compat_1:5.8.2-2.fc44.x86_64         Older LZMA format compatibility binaries
+
+ * Waiting in queue... 
+ * Waiting for authentication... 
+ * Waiting in queue... 
+ * Downloading packages... 
+ * Running... 
+ * Installing packages... 
+Package: com.victorlobe.veteris
+Version: 3.2
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 561
-Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader, com.filippobiga.springtomize2-icons, com.filippobiga.springtomize2-localizations
-Conflicts: com.filippobiga.springtomize
-Filename: debs/springtomize2_1.4.3-1_appleguider.net.deb
-Size: 207622
-MD5sum: 83af51e0a7624ffb9532c7b0d836681b
-SHA1: 3817b4684c11981b05da0e30ea92daff0cdb85fd
-SHA256: 5de3f23b516c148a0efc378ebcc4dacfc693ab45600a2419aef39e4fd7da56c5
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize2Dp
-Description: SpringBoard, the way you want it. All over again.
-Tag: cydia::commercial, purpose::extension
-Author: FilippoBiga <filippobiga.dev@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize2Dp
-Dev: filippobiga
-Icon: file:///Applications/springtomizeapp.app/Icon.png
-Name: Springtomize 2 - iOS 5 & 6
-Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: Victor
+Installed-Size: 5064
+Depends: firmware (>= 5.0), com.victorlobe.veterishelper
+Conflicts: com.ixmoe.1pwn.veteris, moe.yzu.veterishelper
+Replaces: com.ixmoe.1pwn.veteris, moe.yzu.veterishelper
+Filename: debs/com.victorlobe.veteris_3.2_iphoneos-arm.deb
+Size: 2207580
+MD5sum: 6afd1791b7cef36c392ca76abec19a6c
+SHA1: 74db1199440e7ec0969d63a88f62358742ecdef2
+SHA256: 76aa85bebaa52e8d05c56acd3ee1d791f2dce95c009a2d72778c3e6e4e006150
+Section: Utilities
+Homepage: http://www.veteris.victorlobe.me/
+Description: Welcome back!
+Author: Victor
+Compatibility: iOS 5.0+
+Depiction: http://repo.victorlobe.me/depictions/depiction.html?id=com.victorlobe.veteris
+Icon: file:///Applications/Veteris.app/AppIcon57x57@2x.png
+Name: Veteris
 
 Package: org.thebigboss.auxo
 Version: 1.4-2
@@ -66,4 +59,5 @@ Dev: a3tweaks
 Icon: file:///Library/PreferenceLoader/Preferences/AuxoIcon@2x.png
 Name: Auxo
 Sponsor: thebigboss.org <http://thebigboss.org>
+
 
